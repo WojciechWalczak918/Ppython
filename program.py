@@ -1,23 +1,3 @@
-Skip to content
- 
-Search…
-All gists
-Back to GitHub
-@WojciechWalczak918 
-@chrismedrela
-chrismedrela/program.py Secret
-Last active 4 days ago • Report abuse
-10
-1
-Code
-Revisions
-4
-Stars
-10
-Forks
-1
-<script src="https://gist.github.com/chrismedrela/e3223573392b2a83d57acd80f7696700.js"></script>
-program.py
 # Język programowania: Python  https://www.python.org/downloads/
 # Edytor kodu (Word dla programistów): Visual Studio Code  https://code.visualstudio.com
 
@@ -113,28 +93,3 @@ print(f"1 {waluta} = {kurs} PLN w dniu {dzien}")
 #     ]
 # }
 # print(dane["rates"][0]["mid"])  # => 4.3518
-@WojciechWalczak918
- 
-Add heading textAdd bold text, <Ctrl+b>Add italic text, <Ctrl+i>
-Add a quote, <Ctrl+Shift+.>Add code, <Ctrl+e>Add a link, <Ctrl+k>
-Add a bulleted list, <Ctrl+Shift+8>Add a numbered list, <Ctrl+Shift+7>Add a task list, <Ctrl+Shift+l>
-Directly mention a user or team
-Reference an issue or pull request
-Leave a comment
-No file chosen
-Attach files by dragging & dropping, selecting or pasting them.
-Styling with Markdown is supported
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
